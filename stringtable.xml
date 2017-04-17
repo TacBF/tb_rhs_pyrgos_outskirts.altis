@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Pyrgos_Outskirts">
+
+	<Key ID="STR_TB_missionTitle_TB_Pyrgos_Outskirts">
+		<Original>Pyrgos Outskirts</Original>
+		<English>Pyrgos Outskirts</English>
+		<German>Pyrgos Outskirts</German>
+		<Italian>Pyrgos Outskirts</Italian>
+		<Spanish>Pyrgos Outskirts</Spanish>
+		<French>Pyrgos Outskirts</French>
+		<Czech>Pyrgos Outskirts</Czech>
+		<Russian>Pyrgos Outskirts</Russian>
+		<Polish>Pyrgos Outskirts</Polish>
+		<Hungarian>Pyrgos Outskirts</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Pyrgos_Outskirts">
+		<Original>TacBF A&amp;S[T-10]: Pyrgos Outskirts</Original>
+		<English>TacBF A&amp;S[T-10]: Pyrgos Outskirts</English>
+		<German>TacBF A&amp;S[T-10]: Pyrgos Outskirts</German>
+		<Italian>TacBF A&amp;S[T-10]: Pyrgos Outskirts</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Pyrgos Outskirts</Spanish>
+		<French>TacBF A&amp;S[T-10]: Pyrgos Outskirts</French>
+		<Czech>TacBF A&amp;S[T-10]: Pyrgos Outskirts</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Pyrgos Outskirts</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Pyrgos Outskirts</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Pyrgos Outskirts</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
